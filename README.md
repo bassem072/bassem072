@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bassem-elsayed-74b950157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bassem-elsayed-74b950157" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bassem-elsayed-74b950157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bassem-elsayed-74b950157" title="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bassemelsayd072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bassemelsayd072" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/bassemelsayd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bassemelsayd" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bassemelsayd072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bassemelsayd072" height="30" width="40" /></a>
