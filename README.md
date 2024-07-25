@@ -4,7 +4,7 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- 🔭 I’m currently working on [Chaty](https://github.com/bassem072/chaty)
+- 🔭 I’m currently working on [Travolic](https://travolic.com/en)
 
 - 🌱 I’m currently learning **Nest.js & next.js**
 
